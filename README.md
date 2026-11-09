@@ -1,6 +1,6 @@
 ## hey there
 
-ECE student. I like working close to the hardware, and the closer to the
+I'm an ECE student. I like working close to the hardware, and the closer to the
 silicon, the happier I am.
 
 ### what i spend my time on
